@@ -1,0 +1,3 @@
+# Ignoring the virtual environment file and the notebook checkpoint
+.venv
+.ipynb_checkpoints
